@@ -1,0 +1,20 @@
+{
+    "Students":[
+
+
+{
+    "name":"Arun",
+    "Place":"Alappuzha",
+    "Age":25,
+    "Languages":["Malayalam","Thamil","English"],
+    "Student":true
+},
+{
+    "name":"Usha",
+    "Place":"Kollam",
+    "Age":28,
+    "Languages":["Malayalam","Thamil","English"],
+    "Student":true
+}
+    ]
+}
